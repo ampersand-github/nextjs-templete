@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74f56f8a-88df-4f18-ab56-59505f71e994" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-templete.iml" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-templete.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +231,7 @@
       <updated>1630071413088</updated>
       <workItem from="1630071419533" duration="4307000" />
       <workItem from="1630075872162" duration="153000" />
-      <workItem from="1630076059471" duration="316000" />
+      <workItem from="1630076059471" duration="1091000" />
     </task>
     <servers />
   </component>
